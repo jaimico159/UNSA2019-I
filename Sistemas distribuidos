@@ -18,3 +18,19 @@ Hay procesos ligeros : Threads
 Hay hilos llamados : Deamons
 
 ¿Cuales son los deamons basicos que utiliza linux y windows? 
+Los sistemas operativos manejan colas, diferenciales de tiempo para poder atender, etc.
+Estamos viendo procesos que nosotros vamos a lanzar, vamos a ver ejemplos de como implementar.
+
+En plantas de producción se dice que el porcentaje de rendimiento de las máquinas es 75%
+Un hilo es parte de la multiprogramación
+Un criterio para atender hilos aparte de prioridad es el tiempo de espera.
+
+Hay dos servicios que tenemos que ver FTP y TELNET, ambos utilizan puertos  muy conocidos
+FTP : puerto 21
+Telnet: puerto 23
+
+Modificar el código que se exive para imprimir numeros del 1 al 5
+Generar un hilo adicional que imprima los mismos numeros
+
+CUDA para programación gráfica ... o algo así
+
