@@ -1,0 +1,20 @@
+Escriba un ejemplo de sistema distribuido
+Indique porqué considera que es distribuido
+Escriba las ventajas y desventajas
+
+Crear un proceso para conectarse al super computador
+
+Los pesos al principio son menores que al final
+
+Primer trabajo parcial: Generar la solucion de un problema informatico para algun sector en especial(Educación, Finanzas, Salud, Agricola, Pesquera, Minera, etc). Con la expectativa de encontrar una solucion utilizando el concepto de sistema distribuido en un plazo no mayor a 10 semanas para elaborar un prototipo de la solución.
+
+Presentacion:
+- Power Point de al menos 6 slides.
+- Reporte preliminar del problema y probable solución.
+- Trabajos similares, referencias.
+
+
+Hay procesos ligeros : Threads
+Hay hilos llamados : Deamons
+
+¿Cuales son los deamons basicos que utiliza linux y windows? 
